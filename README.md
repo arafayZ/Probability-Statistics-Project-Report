@@ -10,7 +10,7 @@ A Python-based project that implements core concepts of Probability & Statistics
 4. Visualizing statistical distributions and results
 5. The project supports both manual user input and Excel file uploads, making it flexible for academic and practical use.
 
-#🔍 Features
+# 🔍 Features
 
 ✅ Confidence Interval for:
 Population Mean
